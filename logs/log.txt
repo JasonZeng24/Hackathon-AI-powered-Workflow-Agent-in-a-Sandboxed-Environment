@@ -1,0 +1,7 @@
+
+=== 2025-06-20 19:08:38.411697 ===
+CMD: touch hello.py ; echo "print('Hello World')" > hello.py
+OUT:
+
+ERR:
+
