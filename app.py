@@ -4,7 +4,7 @@ import datetime
 
 client = OpenAI(
     base_url="https://api.gptsapi.net/v1", 
-    api_key="sk-Efz705caeedad3890a6104382da7032e6af965bb9f2nT5wM" 
+    api_key="api" 
 )
 
 def nl_to_shell(nl):
